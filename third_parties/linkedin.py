@@ -11,16 +11,16 @@ def scrape_linkedin_profile(linkedin_profile_url: str):
     Manually scrapt the info from the LinkedIn profile"""
 
     # Don't uncomment this until final try
-    """api_endpoint = "https://nubela.co/proxycurl/api/v2/linkedin"
+    api_endpoint = "https://nubela.co/proxycurl/api/v2/linkedin"
     header_dic = {"Authorization": f"Bearer {PROXYCURL_API_KEY}"}
 
     response = requests.get(
         api_endpoint, params={"url": linkedin_profile_url}, headers=header_dic
     )
 
-    data = response.json()"""
+    data = response.json()
 
-    # Open the JSON file and load its contents into a Python variable
+    """# Open the JSON file and load its contents into a Python variable
     with open(json_file_path, "r") as json_file:
         data = json.load(json_file)
 
@@ -33,6 +33,6 @@ def scrape_linkedin_profile(linkedin_profile_url: str):
 
     if data.get("groups"):
         for group_dict in data.get("groups"):
-            group_dict.pop("profile_pic_url")
+            group_dict.pop("profile_pic_url")"""
 
     return data
