@@ -19,14 +19,14 @@ def lookup(name: str) -> str:
         model_name="gpt-3.5-turbo",
         openai_api_key=config.get("OPENAI_API_KEY"),
     )
-    template = """given the full name {name_of_person} I want you to get me a link to their LinkedIn profile page.
-                    Your answer should contain only a URL"""
+    template = """given the full name {name_of_person} I want you to find a link to their Twitter profile page,
+                    and extract from it, their username. Your final answer should contain only the person's username."""
 
     tools_for_agent = [
         Tool(
-            name="Crawl Google 4 linkedin profile page",
+            name="Crawl Google 4 Twitter profile page",
             func=get_profile_url,
-            description="useful for when you need to get the LinkedIn Page URL",
+            description="useful for when you need to get the Twitter Page URL",
         )
     ]
 
@@ -42,12 +42,10 @@ def lookup(name: str) -> str:
     )
 
     try:
-        linkedin_profile_url = agent.run(
-            prompt_template.format_prompt(name_of_person=name)
-        )
+        twitter_username = agent.run(prompt_template.format_prompt(name_of_person=name))
     except OutputParserException:
         print(
             "Sorry, but it seems like I couldn't find such a profile available through my searches!"
         )
 
-    return linkedin_profile_url
+    return twitter_username
