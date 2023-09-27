@@ -9,6 +9,7 @@ black = "*"
 openai = "*"
 python-decouple = "*"
 google-search-results = "*"
+tweepy = "*"
 
 [dev-packages]
 
