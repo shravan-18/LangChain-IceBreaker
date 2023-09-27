@@ -1,0 +1,8 @@
+Hello Langchain
+1. Short Summary:
+Shravan Venkatraman is an AI/ML Intern at Virtusa and holds the position of Video Editing and Promotions Lead at the Game Development Club VITc. He is a skilled practitioner in AI/ML and an expert in After Effects. With a strong background in computer science, Shravan is currently pursuing a Bachelor of Technology degree in Computer Science from VIT University. He is passionate about photography, video editing, and has a diverse skill set in areas such as TensorFlow, deep learning, computer vision, and data analysis.
+
+2. Two Interesting Facts:
+- Shravan is a multilingual individual, proficient in English, Hindi, Japanese, and Tamil. This linguistic ability enables him to effectively communicate and collaborate with individuals from diverse backgrounds.
+- Apart from his academic pursuits, Shravan actively participates in extracurricular activities. He has held leadership roles in prestigious clubs at VIT Chennai, including the Game Development Club and the Robotics Club. These experiences have allowed him to develop strong leadership and time management skills while working with aspiring developers and editors.
+(ice_breaker) PS D:\VIT Material\VIT material\Courses\Langchain\Github\ice_breaker>
