@@ -1,0 +1,174 @@
+{
+	"public_identifier": "shravan-venkatraman-778471220",
+	"profile_pic_url": "https://media.licdn.com/dms/image/D5603AQG6o-etJOLmXw/profile-displayphoto-shrink_800_800/0/1695412388478?e=1701302400&v=beta&t=VPBT-TB2YENe-3seCNy0fJj26msG_4wE3JU-Co2PPtU",
+	"background_cover_image_url": null,
+	"first_name": "Shravan",
+	"title": "VITc | AI ML Intern @Virtusa | Video Editing and Promotions Lead @GDC - VITc | AI ML Practitioner | After Effects Expert ",
+	"country": "IN",
+	"country_full_name": "India",
+	"city": "Chennai",
+	"state": "Tamil Nadu",
+	"experiences": [{
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2023
+		},
+		"ends_at": null,
+		"company": "Game Development Club VITc",
+		"company_linkedin_profile_url": null,
+		"title": "Video Editing and Promotions Lead",
+		"description": "Leading a team of over 30 aspiring developers and editors in the area of Video Editing and Promotions in one of the prestigious clubs of VIT Chennai (Game Development Club).",
+		"location": "Chennai, Tamil Nadu, India",
+		"logo_url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 8,
+			"year": 2022
+		},
+		"ends_at": null,
+		"company": "Robotics Club VITc",
+		"company_linkedin_profile_url": null,
+		"title": "Photographer, Videographer and Editor",
+		"description": "I have captured and edited professional photos and videos for one of the esteemed clubs I belong to, in VIT Chennai - Robotics Club",
+		"location": "Chennai, Tamil Nadu, India",
+		"logo_url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 8,
+			"year": 2023
+		},
+		"ends_at": null,
+		"company": "Virtusa",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/westen-tou-business-solution/",
+		"title": "AI ML Intern",
+		"description": "Currently interning at Virtusa in the field of AI/ML.",
+		"location": "Chennai, Tamil Nadu, India",
+		"logo_url": "https://media.licdn.com/dms/image/C510BAQGqc2ZaBFlLQA/company-logo_400_400/0/1576267693907?e=1703721600&v=beta&t=qomfQ8A8w3SeCSvSk3WwZr_-Vv8mRnwg8iXV6YunRuc"
+	}],
+	"education": [{
+		"starts_at": {
+			"day": 1,
+			"month": 8,
+			"year": 2021
+		},
+		"ends_at": {
+			"day": 30,
+			"month": 6,
+			"year": 2025
+		},
+		"field_of_study": "Computer Science",
+		"degree_name": "Bachelor of Technology - BTech",
+		"school": "VIT University (Chennai Campus)",
+		"school_linkedin_profile_url": null,
+		"description": null,
+		"logo_url": null,
+		"grade": null,
+		"activities_and_societies": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 8,
+			"year": 2022
+		},
+		"ends_at": null,
+		"field_of_study": "Artificial Intelligence",
+		"degree_name": null,
+		"school": "Zero To Mastery Academy",
+		"school_linkedin_profile_url": null,
+		"description": null,
+		"logo_url": "https://media.licdn.com/dms/image/C4D0BAQEKCFN27S4Ntg/company-logo_400_400/0/1582272345448?e=1703721600&v=beta&t=DX0gJrC78yD9ye5fKin1hjBhrki3klOF9aoOiKrWyos",
+		"grade": null,
+		"activities_and_societies": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 6,
+			"year": 2019
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 7,
+			"year": 2021
+		},
+		"field_of_study": "Computer Science",
+		"degree_name": "High School",
+		"school": "SBOA School & Junior College",
+		"school_linkedin_profile_url": null,
+		"description": null,
+		"logo_url": null,
+		"grade": null,
+		"activities_and_societies": null
+	}],
+	"languages": ["English", "Hindi", "Japanese", "Tamil"],
+	"accomplishment_organisations": [],
+	"accomplishment_publications": [],
+	"accomplishment_honors_awards": [],
+	"accomplishment_patents": [],
+	"accomplishment_courses": [],
+	"accomplishment_projects": [],
+	"accomplishment_test_scores": [],
+	"volunteer_work": [],
+	"certifications": [{
+		"starts_at": {
+			"day": 1,
+			"month": 9,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "Python for Data Science and Machine Learning Bootcamp",
+		"license_number": "UC-cd39a7e9-18fe-461f-89a1-15625714e8ef",
+		"display_source": "udemy.com",
+		"authority": "Udemy",
+		"url": "https://www.udemy.com/certificate/UC-cd39a7e9-18fe-461f-89a1-15625714e8ef/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 9,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "Tensorflow Developer Certificate 2023: Zero to Mastery",
+		"license_number": "UC-7a2830ef-01e5-43c8-8de2-77da0b7b0af5",
+		"display_source": "udemy.com",
+		"authority": "Udemy",
+		"url": "https://www.udemy.com/certificate/UC-7a2830ef-01e5-43c8-8de2-77da0b7b0af5/"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 2,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "IBM Applied AI Specialization",
+		"license_number": "BYFS85CHPC9P",
+		"display_source": "coursera.org",
+		"authority": "Coursera",
+		"url": "https://www.coursera.org/account/accomplishments/specialization/certificate/BYFS85CHPC9P"
+	}],
+	"connections": null,
+	"people_also_viewed": [],
+	"recommendations": [],
+	"activities": [],
+	"similarly_named_profiles": [],
+	"articles": [],
+	"groups": [],
+	"skills": ["Leadership", "Time Management", "Python (Programming Language)", "TensorFlow", "Artificial Intelligence (AI)", "Machine Learning", "Data Science", "Deep Learning", "Computer Vision", "Natural Language Processing (NLP)", "Video Editing", "After Effects", "Topaz", "Photography", "NumPy", "Scikit-Learn", "Image Processing", "Data Analysis", "Flask", "Adobe Photoshop"],
+	"inferred_salary": {
+		"min": null,
+		"max": null
+	},
+	"gender": null,
+	"birth_date": null,
+	"industry": null,
+	"extra": {
+		"github_profile_id": null,
+		"twitter_profile_id": null,
+		"facebook_profile_id": null
+	},
+	"interests": [],
+	"personal_emails": [],
+	"personal_numbers": []
+}
